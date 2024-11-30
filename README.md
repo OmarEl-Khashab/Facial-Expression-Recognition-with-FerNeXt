@@ -1,4 +1,4 @@
-# FerNeXt: Facial Expression Recognition with FerNeXt
+# FerNeXt: Facial Expression Recognition Using ConvNeXt with Channel Attention
 
 This repository provides details of the **FerNeXt** model for facial expression recognition, as presented in the paper "[FerNeXt: Facial Expression Recognition Using ConvNeXt with Channel Attention](https://ieeexplore.ieee.org/document/10278345)" (IEEE _MIUCC Conference_) , 2024).
 
