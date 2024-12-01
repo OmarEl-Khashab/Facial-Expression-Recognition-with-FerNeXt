@@ -1,5 +1,7 @@
 # FerNeXt: Facial Expression Recognition Using ConvNeXt with Channel Attention
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fernext-facial-expression-recognition-using/facial-expression-recognition-on-raf-db)](https://paperswithcode.com/sota/facial-expression-recognition-on-raf-db?p=fernext-facial-expression-recognition-using)
+
 This repository provides details of the **FerNeXt** model for facial expression recognition, as presented in the paper "[FerNeXt: Facial Expression Recognition Using ConvNeXt with Channel Attention](https://ieeexplore.ieee.org/document/10278345)" (IEEE _MIUCC Conference_) , 2024).
 
 ## Overview
